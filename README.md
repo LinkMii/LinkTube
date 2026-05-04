@@ -1,3 +1,4 @@
+# LinkMii
 Welcome to LinkTube this is our YT revival (PLEASE NOTE THIS ISNT THE SOURCE CODE WE ARE USING WE ARE USING A CUSTOM ONE)
 to get started read the setup guide.md or use our self hosted wad that you can find on our website! to self host please read the
 requirements and install those with "brew install OR apt install" (depending if your on a Mac or Linux) IF YOU ARE ON A MAC:
